@@ -19,16 +19,3 @@ Example Behavior
 
 ---
 
-Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/chatbotDSA.git
-   cd chatbotDSA
-2. Install dependencies:
-    npm install
-3. Add your API key:
-    const ai = new GoogleGenAI({ apiKey: "YOUR_API_KEY_HERE" });
-
-   
-5. Add your API key:
